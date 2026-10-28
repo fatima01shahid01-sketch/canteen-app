@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Chai", "category": "Hot drinks", "price": 90, "emoji": "☕", "description": "Strong milk tea brewed with ginger, cardamom and a pinch of spice." },
+  { "id": 4, "name": "Hot Chocolate", "category": "Hot drinks", "price": 330, "emoji": "🍫", "description": "Thick melted chocolate in warm milk, finished with a marshmallow." },
+  { "id": 6, "name": "Boba Tea", "category": "Cold drinks", "price": 450, "emoji": "🧋", "description": "Chilled milk tea with chewy tapioca pearls, sweet and creamy." },
+  { "id": 7, "name": "Fresh Lime Soda", "category": "Cold drinks", "price": 120, "emoji": "🍋", "description": "Fizzy lime soda, sweet or salty, made when you order." },
+  { "id": 9, "name": "Dumplings", "category": "Bites", "price": 400, "emoji": "🥟", "description": "Soft steamed dumplings stuffed with spiced veggies, served with chilli dip." },
+  { "id": 10, "name": "French Fries", "category": "Bites", "price": 150, "emoji": "🍟", "description": "Golden salted fries with ketchup on the side." },
+  { "id": 11, "name": "Cinnamon Roll", "category": "Bites", "price": 170, "emoji": "🥐", "description": "Warm swirl of dough, cinnamon and sugar glaze." },
+  { "id": 12, "name": "Fudge Brownie", "category": "Bites", "price": 140, "emoji": "🍰", "description": "Dense chocolate brownie with a gooey middle." },
+  { "id": 13, "name": "Zinger Wrap", "category": "Meals", "price": 250, "emoji": "🌯", "description": "Crispy zinger chicken with lettuce and garlic mayo in a warm wrap." },
+  { "id": 15, "name": "Veg Burger", "category": "Meals", "price": 330, "emoji": "🍔", "description": "Crispy veg patty with lettuce, tomato and house sauce in a toasted bun." },
+  { "id": 17, "name": "Chowmein", "category": "Meals", "price": 380, "emoji": "🍜", "description": "Stir-fried noodles tossed with crunchy veggies and soy sauce." },
+  { "id": 18, "name": "Chicken Sandwich", "category": "Meals", "price": 200, "emoji": "🥪", "description": "Grilled chicken with lettuce, cheese and garlic mayo between toasted bread." }
+]
